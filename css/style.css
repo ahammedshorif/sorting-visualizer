@@ -27,10 +27,12 @@ body {
 .title {
   background-color: var(--primary-color);
   text-align: center;
-  font-size: 1.2em;
+  font-size: 1.6em;
   padding-block: 0.5em;
   color: #fff;
   cursor: pointer;
+  padding: 1rem;
+  color: #192a3a;
 }
 
 /* Navbar CSS */
